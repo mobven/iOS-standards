@@ -63,6 +63,7 @@ attributes:
     - "@IBAction"
     - "@NSManaged"
     - "@objc"
+    - "@DefaultsStorage"
 
 force_cast: warning
 force_try: warning
