@@ -64,6 +64,7 @@ attributes:
     - "@NSManaged"
     - "@objc"
     - "@DefaultsStorage"
+    - "@available"
 
 force_cast: warning
 force_try: warning
