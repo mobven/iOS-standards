@@ -67,6 +67,7 @@ attributes:
     - "@DefaultsStorage"
     - "@available"
     - "@propertyWrapper"
+    - "@IBDesignable"
 
 force_cast: warning
 force_try: warning
